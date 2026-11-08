@@ -16,6 +16,7 @@
    ```bash
    git clone https://github.com/N0ppakun/Noppakun_Rachakrom.git
    cd Noppakun_Rachakrom
+   cd "Noppakun Rachakrom"
    ```
 
 2. ติดตั้ง Dependencies:
@@ -38,6 +39,7 @@
 
    ```bash
    cd Noppakun_Rachakrom
+   cd "Noppakun Rachakrom"
    ```
 
 2. ขั้นตอนที่2เขียนคำสั่งEAS:
