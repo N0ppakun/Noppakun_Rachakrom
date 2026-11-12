@@ -51,7 +51,7 @@ https://youtu.be/I2RuQW2eqdo
 
 # โครงสร้างโปรเจก
 
-* **Noppakun Rachakrom               #โค้ดตัวแอป
-* **เอกสารและโปสเตอร์                  #เอกสารdocx,pdfและposter.pptx สำหรับแก้ไข
-* **LinkYouTubeคลิปวิดีโอ               #ลิงค์วิดีโอสาธิตการใช้งาน
-* **ลิงค์โหลดสำหรับโหลดโฟเดอร์backend    #ลิงค์สำหรับโหลดหลังบ้าน FastApi,ไฟล์model=best.pt
+* **Noppakun Rachakrom**: โค้ดตัวแอป
+* **เอกสารและโปสเตอร์**:เอกสารdocx,pdfและposter.pptx สำหรับแก้ไข
+* **LinkYouTubeคลิปวิดีโอ**:ลิงค์วิดีโอสาธิตการใช้งาน
+* **ลิงค์โหลดสำหรับโหลดโฟเดอร์backend**:ลิงค์สำหรับโหลดหลังบ้าน FastApi,ไฟล์model=best.pt
